@@ -1,0 +1,4 @@
+/.env
+/.npmrc
+/.svelte-kit
+/node_modules
